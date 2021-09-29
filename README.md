@@ -1,4 +1,5 @@
 Tutustu forkkaukseen:
+NÄIN, FORKKASIN, TUTUSTUIN!
 
 https://guides.github.com/activities/forking/
 
